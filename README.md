@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# POC for editor can use math fomular and chemical
+ 
+ - [tinymce] (https://www.tiny.cloud/docs/) for main editor 
+ - [MathType] (https://docs.wiris.com/en/mathtype/start) for external plugin
+
 ## Available Scripts
 
 In the project directory, you can run:
